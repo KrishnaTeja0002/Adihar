@@ -1,6 +1,9 @@
 # Adihar
 UI/UX design, backend development, and deployment of adihar tech solutions corporate website
 
+
+The frontend of this application is built using React.js with Vite, focusing on performance, scalability, and a seamless user experience.
+
 🚀 Key Features
 
 👨‍💼 Employee Workspace
